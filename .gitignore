@@ -23,6 +23,11 @@
 !/tmp/pids/.keep
 
 .byebug_history
+.idea/*
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+*.xml
+.idea/dictionaries/chalchuck.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/aurora.iml

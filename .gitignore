@@ -31,3 +31,5 @@
 .idea/dictionaries/chalchuck.xml
 .idea/inspectionProfiles/Project_Default.xml
 .idea/aurora.iml
+
+/config/credentials/development.key
